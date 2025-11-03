@@ -1,6 +1,6 @@
 # 👾 Nicholas Tayag 
 
-**`Computer Science`** **` University of Florida `** **` Expected Graduation: May 2026 `**
+**`Computer Science`** **` University of Florida `** **` Expected Graduation: May 2027 `**
 
 Proficient in Python, C++, and JavaScript with hands-on experience as a full-stack developer at the Florida Community Innovation Foundation. Seeking internship opportunities in software development, where I can leverage my skills in data scaling and solution implementation. I bring adaptability, patience, and strong problem-solving abilities to any team.
 
