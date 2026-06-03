@@ -2,9 +2,9 @@
 
 **`Computer Science`** **` University of Florida `** **` Expected Graduation: May 2027 `**
 
-Proficient in Python, C++, and JavaScript with hands-on experience as a full-stack developer at the Florida Community Innovation Foundation. Seeking internship opportunities in software development, where I can leverage my skills in data scaling and solution implementation. I bring adaptability, patience, and strong problem-solving abilities to any team.
+Building whatever comes to mind... Stay curious!
 
-Feel free to connect to explore potential opportunities.
+Feel free to connect to ablut opportunities.
 
  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicholastayag@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholastayag/) 
  
