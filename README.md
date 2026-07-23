@@ -1,6 +1,6 @@
 # 👾 Nicholas Tayag 
 
-**`Computer Science`** **` University of Florida `** **` Expected Graduation: May 2027 `**
+**`Computer Science`** **` University of Florida `** **` Expected Graduation: Dec 2027 `**
 
 Building whatever comes to mind... Stay curious!
 
